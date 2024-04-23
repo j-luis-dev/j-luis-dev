@@ -70,6 +70,10 @@
 
 ###
 
+### My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bosito&theme=dark&background=000000a6)](https://git.io/streak-stats)
+
 <div align="center">
   <a href="https://open.spotify.com/user/31skq4yrfxs55whiaf5sd6xdeyru">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31skq4yrfxs55whiaf5sd6xdeyru&count=5&unique=false" alt="Spotify recently played"  />
