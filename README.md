@@ -65,17 +65,6 @@
 ###
 
 <div align="center">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3r0ThsZ3Jijgx5IQpdMCd1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen=""   allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</div>
-
-
-###
-
-<img src="https://raw.githubusercontent.com/bosito/bosito/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
   <img src="https://profile-counter.glitch.me/bosito/count.svg?"  />
 </div>
 
