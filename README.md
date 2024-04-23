@@ -1,4 +1,4 @@
-<h2 align="left">Hi! 👋 My name is José Luis and I am a Full Stack developer.</h2>
+<h2 align="center">Hi! 👋 My name is José Luis and I am a Full Stack developer.</h2>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -53,7 +53,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
@@ -64,7 +64,12 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3r0ThsZ3Jijgx5IQpdMCd1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen=""   allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
+
+
+###
 
 <img src="https://raw.githubusercontent.com/bosito/bosito/output/snake.svg" alt="Snake animation" />
 
