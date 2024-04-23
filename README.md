@@ -62,6 +62,11 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
+<div align="center">
+### Top Langs :
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bosito&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 ###
 
 <div align="center">
@@ -69,10 +74,6 @@
 </div>
 
 ###
-
-### My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bosito&theme=dark&background=000000a6)](https://git.io/streak-stats)
 
 <div align="center">
   <a href="https://open.spotify.com/user/31skq4yrfxs55whiaf5sd6xdeyru">
