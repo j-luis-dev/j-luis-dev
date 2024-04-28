@@ -71,7 +71,6 @@
 </div>
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/31skq4yrfxs55whiaf5sd6xdeyru">
