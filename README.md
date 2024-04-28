@@ -64,10 +64,13 @@
 
 ###
 
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/bosito/count.svg?"  />
 </div>
 
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 ###
 
 <div align="center">
@@ -77,3 +80,5 @@
 </div>
 
 ###
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
