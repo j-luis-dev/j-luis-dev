@@ -67,10 +67,14 @@
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/j-luis-dev/count.svg?"  />
+  <a href="https://gitfut.com/j-luis-dev">
+    <img src="https://gitfut.com/j-luis-dev.png" alt="My GitFut card" width="300" />
+  </a>
 </div>
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+
+
 
 <div align="center">
   <a href="https://open.spotify.com/user/31skq4yrfxs55whiaf5sd6xdeyru">
